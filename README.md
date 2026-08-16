@@ -6,3 +6,4 @@ Deep learning start with clusters..
 What is Clusters ?
 cluster make groups of same type of data 
 To get labels 
+and create data for training.
