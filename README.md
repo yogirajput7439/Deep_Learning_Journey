@@ -7,3 +7,5 @@ What is Clusters ?
 cluster make groups of same type of data 
 To get labels 
 and create data for training.
+
+Data will divide in the groups
