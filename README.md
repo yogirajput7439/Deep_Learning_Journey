@@ -10,3 +10,5 @@ and create data for training.
 
 Data will divide in the groups
 Similar Data similar groups 
+
+Group have A points 
